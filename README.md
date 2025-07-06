@@ -170,6 +170,8 @@ All monthly data is aligned to the **start of each month** for aggregation purpo
 - Developed an executive dashboard for real-time performance monitoring  
 - Visualized revenue by division, product, customer, and channel using ribbon and bar charts
 ![Image](https://github.com/user-attachments/assets/12d58578-14e8-453b-b3bb-57e5d6cc3224)
+# Live Dashboard Preview
+https://github.com/user-attachments/assets/91072a2c-10ef-4465-bbe2-1ff30be23cbd
 # Project Outcome
 
 - Enabled **data-driven decisions** across departments
